@@ -21,7 +21,7 @@ AIPS Portal is a comprehensive desktop application built with C# (Windows Forms)
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/aips-portal.git`
+1. Clone the repository: `git clone https://github.com/hasham14fw/AIPS-Management-System-Desktop-Application`
 2. Open the [.sln](cci:7://file:///c:/AIPS%20Portal/AIPS%20Portal.sln:0:0-0:0) file in Visual Studio.
 3. Restore NuGet packages (MongoDB.Driver, Twilio, iTextSharp).
 4. Build and Run the application. 
